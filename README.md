@@ -14,7 +14,7 @@ I'm an aspiring *Data Analyst* currently pursuing my *MCA*.
 
 
 ## 🎯 Goals
-- Land a *Data Analyst* role while pursuing MCA (2025–2027)
+- Land a *Data Analyst* role 
 - Build a strong portfolio with real-world data projects
 - Continuously upskill and stay industry-ready
 
