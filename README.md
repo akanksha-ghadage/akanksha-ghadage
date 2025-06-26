@@ -5,12 +5,14 @@ I'm an aspiring *Data Analyst* currently pursuing my *MCA*.
 
 ## 🚀 Current Focus
 - Learning & practicing *SQL, Python, Power BI, Excel, Tableau*
-- Gaining hands-on experience through projects and HackerRank challenges
-
+- Gaining hands-on experience through projects and HackerRank.
+- Exploring real-world datasets to strengthen analytical thinking.
+  
 
 ## 🧠 Skills & Tools
-- *Languages:* SQL, Python
-- *Tools:* Power BI, Excel, Tableau
+- **Languages:** SQL, Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn 
+- **Tools:** Power BI, Excel, Tableau
 
 
 ## 🎯 Goals
