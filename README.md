@@ -37,10 +37,4 @@ I'm an aspiring *Data Analyst* currently pursuing my *MCA*.
 
 [![Gmail](https://img.shields.io/badge/Gmail-akankshaghadage15@gmail.com-red?style=flat-square&logo=gmail)](mailto:akankshaghadage15@gmail.com)
 
----
 
-
-<!---
-akanksha-ghadage/akanksha-ghadage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
