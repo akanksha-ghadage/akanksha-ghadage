@@ -20,8 +20,8 @@ I'm an aspiring *Data Analyst* currently pursuing my *MCA*.
 
 | Project Name | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| *HR Analytics Dashboard* | Visualizes employee attrition, demographics, and job satisfaction.    | Power BI, DAX, Power Query | [Project](https://github.com/akanksha-ghadage/HR-Attrition-Analytics-PowerBI) |
-| *Music Store SQL Analysis* | Analyzes sales and trends in a music store database. | PostgreSQL, SQL | [Project](https://github.com/akanksha-ghadage/Music-Store-SQL-Analysis) |
+| *Uber Trip Analysis* | Uncovered key patterns in Uber trips, revenue, and travel efficiency. | Power BI, DAX, Power Query | [Project](https://github.com/akanksha-ghadage/Uber-Trip-Analysis-PowerBI) |
+| *Music Store Analysis* | Analyzes sales and trends in a music store database. | PostgreSQL, SQL | [Project](https://github.com/akanksha-ghadage/Music-Store-SQL-Analysis) |
 
 
 
