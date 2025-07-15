@@ -5,7 +5,7 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 
 ---
 
-## 💼 Professional Focus
+## 🚀 Professional Focus
 
 - Designing clean, insightful visualizations with Power BI and Excel
 - Writing complex SQL queries for data exploration and trend analysis
