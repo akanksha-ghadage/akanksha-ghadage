@@ -7,22 +7,22 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 
 ## 💼 Professional Focus
 
-- Creating impactful dashboards and reports for business insights
+- Designing clean, insightful visualizations with Power BI and Excel
 - Writing complex SQL queries for data exploration and trend analysis
 - Using Python for data wrangling, EDA, and visual storytelling
-- Designing clean, insightful visualizations with Power BI and Excel
+
 
 ---
 
 ## 🧰 Skills
 
-**Languages & Libraries :**   SQL · Python · Pandas · NumPy · Matplotlib · Seaborn  
+- **Languages & Libraries :**  SQL · Python · Pandas · NumPy · Matplotlib · Seaborn  
 
-**Data Analysis & BI :**   Data Cleaning · Data Wrangling · EDA · Data Modeling · BI · Statistical Analysis  
+- **Data Analysis & BI :**   Data Cleaning · Data Wrangling · EDA · Data Modeling · BI · Statistical Analysis  
 
-**Tools & Visualization :**   Power BI · DAX · Power Query · Microsoft Excel · Tableau · Git · GitHub  
+- **Tools & Visualization :**   Power BI · DAX · Power Query · Microsoft Excel · Tableau · Git · GitHub  
 
-**Databases & Environment :**   PostgreSQL · MySQL · Jupyter Notebook · Visual Studio Code
+- **Databases & Environment :**   PostgreSQL · MySQL · Jupyter Notebook · Visual Studio Code
 
 ---
 
