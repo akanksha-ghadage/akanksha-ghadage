@@ -26,7 +26,7 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 
 ---
 
-## 📁 Best Projects
+## 📊 Best Projects
 
 |  Project | Description |   Tech Stack |  Link |
 |----------------|-------------------|----------------|------|
