@@ -20,9 +20,9 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 
 - **Data Analysis & BI:** Data Cleaning · Data Wrangling · EDA · Data Modeling · BI · Statistical Analysis
 
-- **Tools & Environments:** Jupyter Notebook · VS Code · Git · GitHub
+- **Tools & Visualization** : Power BI · DAX · Power Query · Microsoft Excel · Tableau · Git · GitHub
 
--  **Visualization & Platforms:** Power BI · DAX · Power Query · Excel · Tableau · PostgreSQL · MySQL
+- **Databases & Environment** : PostgreSQL · MySQL · Jupyter Notebook · Visual Studio Code 
 
 ---
 
