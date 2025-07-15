@@ -28,7 +28,7 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 
 ## 📁 Best Projects
 
-| 📊 Project | 📝 Description |  🛠️ Tech Stack | 🔗 Link |
+|  Project | Description |   Tech Stack |  Link |
 |----------------|-------------------|----------------|------|
 | *Uber Trip Analysis* | Visualizes key patterns in Uber trips, revenue, and travel efficiency. | Power BI, DAX, Power Query | [Project](https://github.com/akanksha-ghadage/Uber-Trip-Analysis-PowerBI) |
 | *Music Store Analysis* | Analyzes sales and trends in a music store database. | PostgreSQL, SQL | [Project](https://github.com/akanksha-ghadage/Music-Store-SQL-Analysis) |
