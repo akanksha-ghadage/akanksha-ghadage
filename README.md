@@ -2,6 +2,7 @@
 
 I'm an IBM-certified Data Analyst currently pursuing my MCA (2025–2027).
 I specialize in SQL, Power BI, and Python to extract insights, automate reporting, and create clean, impactful dashboards.
+
 My focus is on writing advanced SQL queries, designing KPI-driven dashboards, and using Python for wrangling and storytelling with data.
 
 ---
