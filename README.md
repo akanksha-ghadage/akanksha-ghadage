@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="github-banner.png" alt="GitHub Banner" />
+  <img src="github-banner.png" alt="GitHub Banner" height="200" />
 </p>
+
 
 # Hi there, I'm Akanksha! 👋
 
