@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" alt="GitHub Banner" />
+</p>
+
 # Hi there, I'm Akanksha! 👋
 
 I'm an IBM-certified Data Analyst currently pursuing my MCA (2025–2027).
