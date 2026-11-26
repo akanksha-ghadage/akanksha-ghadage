@@ -42,7 +42,7 @@ I specialize in SQL, Power BI, Excel and Python to extract insights and create c
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Ghadage-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/akanksha-ghadage/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Akanksha%20Ghadage-blue?style=flat-square&logo=linkedin)
 
 [![Gmail](https://img.shields.io/badge/Gmail-akankshaghadage15@gmail.com-red?style=flat-square&logo=gmail)](mailto:akankshaghadage15@gmail.com)
 
